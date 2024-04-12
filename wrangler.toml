@@ -1,9 +1,0 @@
-# Top-level configuration
-name = "my-worker"
-main = "src/index.ts"
-compatibility_date = "2024-04-08"
-
-[vars]
-REDIS_URL = "https://us1-tolerant-elk-42041.upstash.io"
-REDIS_TOKEN = "AaQ5ASQgMjM1NTcwMjEtNjJjOS00ODRjLTlmYzYtMDhkZWYwZGJhYmU0MTQ1MGZiODRhNGY3NDk1ZWIzYjQwY2E2YzRiZjdkN2Q="
-
