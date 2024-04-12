@@ -1,0 +1,27 @@
+{
+  "name": "api-limiter",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "tsc && node dist/index.js",
+    "dev": "wrangler dev src/index.ts "
+  },
+  "prettier": {
+    "tabWidth": 2,
+    "printWidth": 80,
+    "trailingComma": "all",
+    "singleQuote": true
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@upstash/ratelimit": "^1.0.3",
+    "@upstash/redis": "^1.29.0",
+    "hono": "^4.2.3"
+  },
+  "devDependencies": {
+    "wrangler": "^3.50.0"
+  }
+}

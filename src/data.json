@@ -1,0 +1,92 @@
+{
+  "data": [
+    {
+      "user_id": 101,
+      "id": 0,
+      "title": "Breyers",
+      "description": "Natural strawberry ice cream",
+      "organic": false,
+      "gluten_free": true
+    },
+    {
+      "user_id": 102,
+      "id": 1,
+      "title": "Ben & Jerry's",
+      "description": "Chunky Monkey banana ice cream with fudge chunks and walnuts",
+      "organic": false,
+      "gluten_free": false
+    },
+    {
+      "user_id": 103,
+      "id": 2,
+      "title": "Häagen-Dazs",
+      "description": "Vanilla bean ice cream made with real Madagascar vanilla",
+      "organic": false,
+      "gluten_free": true
+    },
+    {
+      "user_id": 104,
+      "id": 3,
+      "title": "Blue Bell",
+      "description": "Homemade vanilla ice cream",
+      "organic": false,
+      "gluten_free": true
+    },
+    {
+      "user_id": 105,
+      "id": 4,
+      "title": "Talenti",
+      "description": "Sea salt caramel gelato",
+      "organic": false,
+      "gluten_free": true
+    },
+    {
+      "user_id": 106,
+      "id": 5,
+      "title": "Magnum",
+      "description": "Classic milk chocolate ice cream bars",
+      "organic": false,
+      "gluten_free": true
+    },
+    {
+      "user_id": 107,
+      "id": 6,
+      "title": "Dreyer's",
+      "description": "Cookies 'n Cream ice cream with chunks of chocolate cookies",
+      "organic": false,
+      "gluten_free": false
+    },
+    {
+      "user_id": 108,
+      "id": 7,
+      "title": "Haagen-Dazs",
+      "description": "Chocolate peanut butter ice cream with swirls of peanut butter",
+      "organic": false,
+      "gluten_free": false
+    },
+    {
+      "user_id": 109,
+      "id": 8,
+      "title": "Tillamook",
+      "description": "Oregon strawberry ice cream made with real strawberries",
+      "organic": false,
+      "gluten_free": true
+    },
+    {
+      "user_id": 110,
+      "id": 9,
+      "title": "Talenti",
+      "description": "Mediterranean mint gelato with chocolate flakes",
+      "organic": false,
+      "gluten_free": true
+    },
+    {
+      "user_id": 111,
+      "id": 10,
+      "title": "Magnum",
+      "description": "Double caramel ice cream bars with a chocolate shell",
+      "organic": false,
+      "gluten_free": true
+    }
+  ]
+}
