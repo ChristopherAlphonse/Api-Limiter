@@ -1,4 +1,4 @@
 env
 ./env
 .env
-wranler.toml
+wrangler.toml
