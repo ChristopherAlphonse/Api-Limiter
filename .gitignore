@@ -2,3 +2,87 @@ env
 ./env
 .env
 wrangler.toml
+node_modules
+
+# See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
+
+# dependencies
+/node_modules
+/.pnp
+.pnp.js
+
+# testing
+/coverage
+
+# next.js
+/.next/
+/out/
+
+# production
+/build
+
+/.firebase
+.firebase
+
+# misc
+.DS_Store
+*.pem
+
+# debug
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.pnpm-debug.log*
+
+# vercel
+.vercel
+
+# typescript
+*.tsbuildinfo
+next-env.d.ts
+
+# contentlayer
+.contentlayer
+
+# Auto Generated PWA files
+**/public/sw.js
+**/public/workbox-*.js
+**/public/worker-*.js
+**/public/sw.js.map
+**/public/workbox-*.js.map
+**/public/worker-*.js.map
+
+# Commonly ignored Node.js files
+node_modules
+npm-debug.log
+.npm
+.env.local
+
+# Next.js Build Output
+.next
+build
+
+# Jest
+coverage
+.swc
+junit.xml
+
+sitemap*.xml
+
+
+# Vercel Files
+.vercel
+.turbo
+cache
+
+# Cache Files
+.eslintcache
+.stylelintcache
+.prettier-cache
+
+# TypeScript
+tsconfig.tsbuildinfo
+
+./pnpm-lock.yaml
+pnpm-lock.yaml
+
